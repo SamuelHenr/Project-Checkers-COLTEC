@@ -7,4 +7,5 @@ Open a terminal and compile the main file:
   1. javac main.java
 
 After that, just run the executable (you must have any version of jdk to run this program):
+
   2. java main
