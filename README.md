@@ -2,7 +2,8 @@
 Project developed by Gabriel Siroco and Samuel Henrique in COLTEC - UFMG.
 
 # How to run this program
-Download the src folder
+Download the src folder.
+
 Open a terminal and compile the main file:
   1. javac main.java
 
